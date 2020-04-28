@@ -1,0 +1,14 @@
+D:\OneDrive\Blog\VS\PowerAutomateSamples\SimpleOutput\SimpleOutput\bin\Debug\netcoreapp2.2\SimpleOutput.deps.json
+D:\OneDrive\Blog\VS\PowerAutomateSamples\SimpleOutput\SimpleOutput\bin\Debug\netcoreapp2.2\SimpleOutput.runtimeconfig.json
+D:\OneDrive\Blog\VS\PowerAutomateSamples\SimpleOutput\SimpleOutput\bin\Debug\netcoreapp2.2\SimpleOutput.runtimeconfig.dev.json
+D:\OneDrive\Blog\VS\PowerAutomateSamples\SimpleOutput\SimpleOutput\bin\Debug\netcoreapp2.2\SimpleOutput.dll
+D:\OneDrive\Blog\VS\PowerAutomateSamples\SimpleOutput\SimpleOutput\bin\Debug\netcoreapp2.2\SimpleOutput.pdb
+D:\OneDrive\Blog\VS\PowerAutomateSamples\SimpleOutput\SimpleOutput\obj\Debug\netcoreapp2.2\SimpleOutput.csprojAssemblyReference.cache
+D:\OneDrive\Blog\VS\PowerAutomateSamples\SimpleOutput\SimpleOutput\obj\Debug\netcoreapp2.2\SimpleOutput.csproj.CoreCompileInputs.cache
+D:\OneDrive\Blog\VS\PowerAutomateSamples\SimpleOutput\SimpleOutput\obj\Debug\netcoreapp2.2\SimpleOutput.RazorAssemblyInfo.cache
+D:\OneDrive\Blog\VS\PowerAutomateSamples\SimpleOutput\SimpleOutput\obj\Debug\netcoreapp2.2\SimpleOutput.RazorAssemblyInfo.cs
+D:\OneDrive\Blog\VS\PowerAutomateSamples\SimpleOutput\SimpleOutput\obj\Debug\netcoreapp2.2\SimpleOutput.AssemblyInfoInputs.cache
+D:\OneDrive\Blog\VS\PowerAutomateSamples\SimpleOutput\SimpleOutput\obj\Debug\netcoreapp2.2\SimpleOutput.AssemblyInfo.cs
+D:\OneDrive\Blog\VS\PowerAutomateSamples\SimpleOutput\SimpleOutput\obj\Debug\netcoreapp2.2\SimpleOutput.RazorTargetAssemblyInfo.cache
+D:\OneDrive\Blog\VS\PowerAutomateSamples\SimpleOutput\SimpleOutput\obj\Debug\netcoreapp2.2\SimpleOutput.dll
+D:\OneDrive\Blog\VS\PowerAutomateSamples\SimpleOutput\SimpleOutput\obj\Debug\netcoreapp2.2\SimpleOutput.pdb
